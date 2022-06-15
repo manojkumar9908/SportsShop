@@ -3,11 +3,11 @@ Its kind of Sports Shop app is a console-based application that facilitates the 
 An employee can add these sports items to an inventory and manage offers for those items while a customer can view the available items and make offers. 
 Purpose We want to see that you can meet deadlines and that you can code.
 # Technologies Used
-. Java 17 
-. Maven 
-. MySQL 
-. AWS RDS
-. Git
+.  Java 17 
+.  Maven 
+.  MySQL 
+.  Git
+.  AWS RDS
 # Features
 # Module1:Admin
   1. Add products(completed)
